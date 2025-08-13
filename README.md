@@ -15,9 +15,9 @@ An intelligent and adaptable route planning tool that leverages real-world geosp
 ## ⚙️ Technologies Used
 
 - **Python:** The core language for the application.
-**`NetworkX`:** A powerful Python package for the creation, manipulation, and study of complex networks, used to model the road network.
-**`OSMnx`:** A library to download and process real-world geospatial data from OpenStreetMap to create street network graphs.
-**`Tkinter` & `Matplotlib`:** Used together to create the interactive GUI for visualization and user interaction.
+- **`NetworkX`:** A powerful Python package for the creation, manipulation, and study of complex networks, used to model the road network.
+- **`OSMnx`:** A library to download and process real-world geospatial data from OpenStreetMap to create street network graphs.
+- **`Tkinter` & `Matplotlib`:** Used together to create the interactive GUI for visualization and user interaction.
 
 ## 🚀 Getting Started
 
