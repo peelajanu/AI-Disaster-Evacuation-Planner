@@ -1,0 +1,21 @@
+# Python specific
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Virtual Environment
+venv/
+env/
+
+# Matplotlib cache
+.matplotlib/
+
+# Any scenario files you might save
+*.json
+
+# Personal data or logs
+*.log
