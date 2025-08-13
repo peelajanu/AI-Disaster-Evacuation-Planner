@@ -4,12 +4,14 @@
 An intelligent and adaptable route planning tool that leverages real-world geospatial data and artificial intelligence algorithms to generate optimal evacuation paths during natural and human-made disasters.
 ## ✨ Features
 
-**Dynamic Route Planning:** Utilizes classical pathfinding algorithms like **Dijkstra's**, **A* (A-Star)**, and **Breadth-First Search (BFS)** to compute the shortest and safest paths
-**Real-World Map Integration:** Automatically downloads real-world street network data from OpenStreetMap using the `OSMnx` library, modeling the road network as a complex graph.
-**Dynamic Obstacle Simulation:** Users can interactively add obstacles on the map, and the algorithms will dynamically adjust route calculations to avoid these high-risk areas.
-**Traffic Congestion Modeling:** The system can simulate traffic conditions, which inflates edge weights to represent congestion and helps in finding less crowded evacuation paths.
-**Interactive GUI:** A user-friendly graphical interface built with `Tkinter` and `Matplotlib` allows users to select locations, input coordinates, visualize maps, and simulate emergency scenarios in real time
-**Scenario Management:** The ability to save and load emergency scenarios in JSON format enables pre-planning and testing of various disaster situations without recalculation.
+## ✨ Features
+
+- **Dynamic Route Planning:** Utilizes classical pathfinding algorithms like **Dijkstra's**, **A* (A-Star)**, and **Breadth-First Search (BFS)** to compute the shortest and safest paths.
+- **Real-World Map Integration:** Automatically downloads real-world street network data from OpenStreetMap using the `OSMnx` library, modeling the road network as a complex graph.
+- **Dynamic Obstacle Simulation:** Users can interactively add obstacles on the map, and the algorithms will dynamically adjust route calculations to avoid these high-risk areas.
+- **Traffic Congestion Modeling:** The system can simulate traffic conditions, which inflates edge weights to represent congestion and helps in finding less crowded evacuation paths.
+- **Interactive GUI:** A user-friendly graphical interface built with `Tkinter` and `Matplotlib` allows users to select locations, input coordinates, visualize maps, and simulate emergency scenarios in real time.
+- **Scenario Management:** The ability to save and load emergency scenarios in JSON format enables pre-planning and testing of various disaster situations without recalculation.
 
 ## ⚙️ Technologies Used
 
