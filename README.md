@@ -2,7 +2,6 @@
 
 
 An intelligent and adaptable route planning tool that leverages real-world geospatial data and artificial intelligence algorithms to generate optimal evacuation paths during natural and human-made disasters.
-## ✨ Features
 
 ## ✨ Features
 
