@@ -1,7 +1,7 @@
 # AI-Based Disaster Evacuation Route Planner 🗺️
 
 
-An intelligent and adaptable route planning tool that leverages real-world geospatial data and artificial intelligence algorithms to generate optimal evacuation paths during natural and human-made disasters. [cite_start]This project was developed as a submission for the Artificial Intelligence course (CSE 455 & CSE 455L) at SRM University-AP[cite: 3].
+An intelligent and adaptable route planning tool that leverages real-world geospatial data and artificial intelligence algorithms to generate optimal evacuation paths during natural and human-made disasters. [cite_start][cite: 3].
 
 ## ✨ Features
 
@@ -56,10 +56,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 
 ## 🤝 Authors
 
--   [cite_start]SRI HASITHA - `GAP22110010075` [cite: 7]
--   [cite_start]VAISHNAVI K - `AP2211001010125` [cite: 7]
--   [cite_start]MOUNI SRIN - `AP22110010129` [cite: 8]
--   [cite_start]JAHNAVI P - `AP22110010382` [cite: 10]
+-   [cite_start]Peela Tulasi Jahnavi [cite: 10]
 
 ---
 **Note:** This project serves as a proof of concept and a foundational step for building smart, adaptive disaster evacuation solutions. [cite_start]Future work could include live data integration, mobile application development, and predictive modeling[cite: 158, 163].
